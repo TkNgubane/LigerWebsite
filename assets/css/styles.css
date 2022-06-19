@@ -817,6 +817,10 @@ input {
   color: var(--text-color);
 }
 
+.rampage_link{
+  color: #ed6325;
+}
+
 /*========== SCROLL UP ==========*/
 .scrollup {
   position: fixed;
